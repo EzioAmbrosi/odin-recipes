@@ -27,3 +27,34 @@
     font-size: 24px;
 
 }
+
+.black-button {
+    background-color: black;
+    color: white;
+}
+
+.yellow-button {
+    background-color: yellow;
+    color: black;
+}
+
+.black-button, .yellow-button {
+    font-size: 28px;
+    font-family: helvetica, times new roman, sans-serif;
+}
+
+.avatar.proportioned {
+    width: 300px;
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
+
+.styled .text {
+    background-color: yellow;
+    font-size: 20px;
+    color: red;
+    text-align: center;
+}
