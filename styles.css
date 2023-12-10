@@ -1,7 +1,29 @@
-div {
+.center-div {
     color: white;
     font-size: 32px;
     background-color: red;
     text-align: center;
     font-weight: 700;
+}
+
+.p-element {
+  color: black;
+  background-color: #ffc0cb;
+  font-family: verdana, dejavu, sans-serif, sans;
+
+}
+
+.p-element.alt {
+    font-size: 24px; 
+}
+
+#big-blue {
+    color: blue;
+    font-size: 36px;
+}
+
+#green-bold {
+    background-color: greenyellow;
+    font-size: 24px;
+
 }
